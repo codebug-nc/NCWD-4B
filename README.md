@@ -16,7 +16,7 @@
         }
  Now, hover your mouse over the `h1`!
  
-###### Inside `script.js` file.
+##### Inside `script.js` file.
 * Use `alert()` to alert the user: "You've just entered a fortune telling website!".
 * Use `confirm()` to ask the user: "Would you like to have your fortune told?". Save this in a variable called `wantsFortune`.
 * Save your code, refresh website in Chrome, and check for the alert and confirm messages.
