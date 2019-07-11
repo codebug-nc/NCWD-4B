@@ -1,6 +1,5 @@
-# If Else Statements
+# Fortune Teller
 
-## Fortune Teller
 ### Set the scene
 ###### You will be writing your code in the `script.js` file.
 * Use `alert()` to alert the user: "You've just entered a fortune telling website!".
