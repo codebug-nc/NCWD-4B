@@ -41,3 +41,6 @@
   * Check to see if it works
 * Else, `alert()` "Sorry, you did not follow the rules!"
   * Check to see if it works
+  
+### Finish Early?
+* Make your fortune teller unique by asking more/different questions!!
