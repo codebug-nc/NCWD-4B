@@ -12,11 +12,11 @@
 * If you are having trouble getting the gradient to go across the whole page. Try adding `background-attachment: fixed;`.
 * Let's use the [hover](https://www.w3schools.com/cssref/sel_hover.asp) selector. Try adding this
 
-            ```
+            
             h1:hover {
                background-color: #ffee00;
             }
-            ```
+            
  Now, hover your mouse over the `h1`!
  
 ##### Inside `script.js` file.
