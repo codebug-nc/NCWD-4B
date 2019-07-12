@@ -1,1 +1,6 @@
-
+body {
+  background-image: repeating-radial-gradient(white, black 10%, red 15%);
+}
+h1 {
+	color: yellow;
+}
