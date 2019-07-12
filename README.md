@@ -8,6 +8,7 @@
 * Add an image of something related to a fortune teller. Maybe a crystal ball, a picture of a fortune teller, a wand, magical light?
 
 ##### Inside `style.css`
+* Change the color of your `h1` to something else. If you would like to use a hex color, google "hex color picker" to find a good one :).
 * Change the background color of the page to use a `linear-gradient()`. Check out this [link](https://www.w3schools.com/css/css3_gradients.asp) if you forgot how to do it. **HINT**: Notice that `linear-gradient()` is used on `background` not `background-color`. Try adding 3 or 4 colors!
 * If you are having trouble getting the gradient to go across the whole page. Try adding `background-attachment: fixed;`.
 * Let's use the [hover](https://www.w3schools.com/cssref/sel_hover.asp) selector. Try adding this
