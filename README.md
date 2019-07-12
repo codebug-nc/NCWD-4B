@@ -19,17 +19,16 @@
  Now, hover your mouse over the `h1`!
  
 ##### Inside `script.js` file.
-* Use `alert()` to alert the user: "You've just entered a fortune telling website!".
-* Use `confirm()` to ask the user: "Would you like to have your fortune told?". Save this in a variable called `wantsFortune`.
-* Save your code, refresh website in Chrome, and check for the alert and confirm messages.
-* When the user clicks 'Ok' after the confirm, this means that `wantsFortune == true`. Use this to write an if/else statement: 
-  * If user clicks 'Ok' on the `confirm()`, use `prompt()` to ask the user to "Pick a number: 1, 2, 3, or 4.". Save this `prompt()` in a variable called `number`
-  * Otherwise, use `alert()` to say: "Okay, maybe next time!". 
-* Save your code, refresh website in Chrome, and make sure everything works. Test all combinations!
-* Okay, after asking for a number, `prompt()` the user: "Pick a color: yellow or purple". Save this in a variable called `color`.
+* Ask the user: "Pick a color: yellow or purple". 
+* Save this in a variable called `color`.
+* If the color is yellow `alert()` the user: "You will have a happy life!!"
+* Else if the color is purple `alert()` the user: "There is great danger in your future!"
+* Else, `alert()` "Sorry, you did not follow the rules!"
 
-### The if elses and the else ifs
-* After asking for a number and a color, we are going to be writing an if and some else ifs.
+##### Kick it up a notch!!
+* After asking the user to pick yellow or purple, ask them to pick a number: 1, 2, 3, or 4. 
+* Save this new prompt in a variable called `number`
+* Now, get rid of your old if/else statements from above, let's rewrite them.
 * If the number is equal to 2 AND the color is equal to purple, `alert()` the user: "You will have a happy life!"
   * Check to see if it works
 * Else if the number is 1 AND the color is purple, `alert()` the user: "There is great danger in your future!"
