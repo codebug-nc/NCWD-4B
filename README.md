@@ -1,6 +1,4 @@
-# If Else Statements
-
-## Fortune Teller
+# Fortune Teller
 ### Set the scene
 
 ##### Inside `index.html`
